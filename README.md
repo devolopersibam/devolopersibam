@@ -21,11 +21,12 @@
 
 I'm **Sibam**, a developer and creative who enjoys building things that combine **technology, design and content**.
 
-* 💻 Building **Web & Mobile Applications**
-* 🎬 Professional-style **Video Editing & Content Creation**
-* 🌱 Currently learning **Full-Stack Development**
+* 💻 Building **Web Applications**
+* 📱 Building **Mobile Applications**
+* 🎬 Video Editing & Content Creation
+* 🌱 Learning **Full-Stack Development**
 * 🤖 Exploring **AI, Automation & AI-powered applications**
-* 🎨 Love creating **clean and modern UI**
+* 🎨 Interested in clean and modern UI/UX
 * 🚀 Interested in **SaaS, Digital Products & Creator Tools**
 * 🧠 Learning by building real-world projects
 
@@ -41,17 +42,43 @@ I'm **Sibam**, a developer and creative who enjoys building things that combine 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express" />
 </p>
 
+**Technologies:**
+
+`HTML` · `CSS` · `JavaScript` · `React` · `Vite` · `Tailwind CSS` · `Node.js` · `Express.js`
+
+---
+
 ### 📱 App Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=react,npm,expo,flutter,dart" />
 </p>
+
+**Technologies:**
+
+`React Native` · `React Navigation` · `Expo` · `Flutter` · `Dart`
+
+**Mobile Development:**
+
+* 📱 React Native Applications
+* 🧭 React Navigation
+* ⚡ Expo
+* 🎨 Modern Mobile UI
+* 🔐 Authentication
+* 🌐 API Integration
+* ☁️ Backend Integration
+
+---
 
 ### 🗄️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=supabase,firebase,postgres" />
+<img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,nodejs,express" />
 </p>
+
+`Supabase` · `Firebase` · `PostgreSQL` · `Node.js` · `Express.js`
+
+---
 
 ### 🛠️ Tools & Deployment
 
@@ -59,9 +86,13 @@ I'm **Sibam**, a developer and creative who enjoys building things that combine 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
 </p>
 
-### 🎨 Creative
+`Git` · `GitHub` · `VS Code` · `Vercel` · `Render` · `Antigravity`
 
-`Adobe Photoshop` · `Premiere Pro` · `After Effects` · `Filmora` · `Canva`
+---
+
+### 🎨 Creative Tools
+
+`Adobe Photoshop` · `Premiere Pro` · `After Effects` · `Filmora` · `Canva` · `CapCut`
 
 ---
 
@@ -77,7 +108,7 @@ Modern responsive websites and web apps using:
 
 Cross-platform mobile applications using:
 
-`Flutter` · `Dart` · `Firebase`
+`React Native` · `Expo` · `React Navigation` · `Flutter` · `Dart`
 
 ### 🤖 AI & Automation
 
@@ -134,12 +165,13 @@ A custom **HTML email template manager** designed for creating, managing and dep
 
 ```text
 Full-Stack Development   ████████████████░░░░  80%
-React & Modern Web       █████████████████░░░  85%
-Backend Development      ██████████████░░░░░░  70%
-Flutter Development      ██████████████░░░░░░  70%
-AI & Automation          ████████████░░░░░░░░  60%
-UI/UX & Design           ███████████████░░░░░  75%
-Video Editing            ██████████████████░░  90%
+React & Vite              █████████████████░░░  85%
+React Native & Expo       ██████████████░░░░░░  70%
+Backend Development       ██████████████░░░░░░  70%
+Flutter Development       ██████████████░░░░░░  70%
+AI & Automation           ████████████░░░░░░░░  60%
+UI/UX & Design            ███████████████░░░░░  75%
+Video Editing             ██████████████████░░  90%
 ```
 
 ---
@@ -148,8 +180,9 @@ Video Editing            ██████████████████�
 
 * 🚀 Build and launch real-world applications
 * 💻 Become a stronger Full-Stack Developer
+* 📱 Build React Native + Expo applications
+* 🦋 Explore more advanced Flutter development
 * 🤖 Build useful AI-powered tools
-* 📱 Publish mobile applications
 * 🌐 Build SaaS products
 * 🎬 Grow my creative/content work
 * 📚 Share what I learn with others
